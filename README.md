@@ -79,7 +79,7 @@ The container exposes an **OpenAI-compatible REST API** at `http://0.0.0.0:8888/
 
 ```bash
 git clone https://github.com/MiaAI-Lab/Qwen3.6-35B-A3B-NVFP4-vLLM.git
-cd models/spark/qwen36-35b
+cd Qwen3.6-35B-A3B-NVFP4-vLLM
 ```
 
 ### 2. (Optional) Set HuggingFace Token
