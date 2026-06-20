@@ -78,7 +78,7 @@ The container exposes an **OpenAI-compatible REST API** at `http://0.0.0.0:8888/
 ### 1. Clone & Navigate
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MiaAI-Lab/Qwen3.6-35B-A3B-NVFP4-vLLM.git
 cd models/spark/qwen36-35b
 ```
 
