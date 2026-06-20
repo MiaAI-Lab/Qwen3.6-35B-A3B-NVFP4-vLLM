@@ -1,0 +1,19 @@
+# Model weights & downloads
+.cache/
+.hf/
+*.bin
+
+# vLLM runtime artifacts
+.vllm.log
+.vllm.pid
+
+# Bundled dependencies (not needed in git)
+.deps/
+.bin/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
