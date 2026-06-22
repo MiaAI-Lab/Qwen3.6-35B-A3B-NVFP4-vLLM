@@ -195,6 +195,7 @@ All configurable options live in [`start.sh`](start.sh). Key variables:
 
 The file [`chat_template.jinja`](chat_template.jinja) is a comprehensive Jinja2 template (**v20**) designed for Qwen3.6 with:
 
+- Original author: https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates
 - **Multi-modal content** — Renders images and videos as special tokens (`<|image|>`, `<|video|>`)
 - **System / Developer / User / Assistant / Tool messages** — Full OpenAI-style role support
 - **Thinking / Reasoning Blocks** — Wraps chain-of-thought in `<thinking>...</thinking>`; toggleable via `enable_thinking` and `preserve_thinking` template kwargs
